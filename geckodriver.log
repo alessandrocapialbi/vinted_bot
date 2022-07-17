@@ -1,0 +1,615 @@
+1638835754225	geckodriver	INFO	Listening on 127.0.0.1:57552
+1638835757287	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57553" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofilehat5vx"
+1638835757617	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofilehat5vx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57553/devtools/browser/188be19c-9cc7-4258-b364-85bdee3259a9
+1638835759899	Marionette	INFO	Listening on port 57558
+1638835759949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://e-l.unifi.it/lib/javascript.php/1638759604/lib/requirejs/require.min.js, line 5: Error: Script error for "core/first"
+http://requirejs.org/docs/errors.html#scripterror
+1638835762899	Marionette	INFO	Stopped listening on port 57558
+JavaScript error: https://e-l.unifi.it/lib/javascript.php/1638759604/lib/requirejs/require.min.js, line 5: Error: Script error for "core/event"
+http://requirejs.org/docs/errors.html#scripterror
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638835852173	geckodriver	INFO	Listening on 127.0.0.1:60678
+1638835855241	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60679" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileaYu8M5"
+1638835855531	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileaYu8M5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60679/devtools/browser/188f9611-7653-4c68-ab9a-39c34fe94927
+1638835857585	Marionette	INFO	Listening on port 60685
+1638835857921	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638835858774	Marionette	INFO	Stopped listening on port 60685
+JavaScript error: https://e-l.unifi.it/, line 814: TypeError: M.filter_mathjaxloader is undefined
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638836152361	geckodriver	INFO	Listening on 127.0.0.1:62461
+1638836155421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62462" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileqp0bTg"
+1638836155694	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileqp0bTg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62462/devtools/browser/af2f5b2a-1bec-4bdd-9923-6dfd2c88e372
+1638836157797	Marionette	INFO	Listening on port 62467
+1638836158089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://e-l.unifi.it/lib/javascript.php/1638759604/lib/requirejs/require.min.js, line 5: Error: No define call for theme_boost/tooltip
+http://requirejs.org/docs/errors.html#nodefine
+1638836163523	Marionette	INFO	Stopped listening on port 62467
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638836173389	geckodriver	INFO	Listening on 127.0.0.1:62525
+1638836176435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62526" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofilea16BMK"
+1638836176711	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofilea16BMK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62526/devtools/browser/3734867f-ccae-4b0e-a919-5d0c6bf2739c
+1638836178787	Marionette	INFO	Listening on port 62531
+1638836179126	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://e-l.unifi.it/lib/javascript.php/1638759604/lib/requirejs/require.min.js, line 5: Error: No define call for theme_boost/tooltip
+http://requirejs.org/docs/errors.html#nodefine
+1638836192442	Marionette	INFO	Stopped listening on port 62531
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638836279183	geckodriver	INFO	Listening on 127.0.0.1:62649
+1638836282232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62650" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofile5ijYYk"
+1638836282527	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofile5ijYYk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62650/devtools/browser/ac0563d9-5dff-4e96-94a8-6c041772add7
+1638836284540	Marionette	INFO	Listening on port 62655
+1638836284920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638836524118	Marionette	INFO	Stopped listening on port 62655
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ozprofileRSXhrF"
+1638836319992	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileRSXhrF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63281/devtools/browser/f421ae8a-0fa2-46ec-b473-c1edfdf6aee8
+1638836321915	Marionette	INFO	Listening on port 63286
+1638836322362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638836379030	Marionette	INFO	Stopped listening on port 63281638836379273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ozprofileycteD7"
+1638836379608	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileycteD7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61808/devtools/browser/048ac63b-ca0d-4ce9-a6e0-eedfd86cb360
+1638836382432	Marionette	INFO	Listening on port 61814
+1638836382490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638836522916	Marionette	INFO	Stopped listening on port 61814
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ozprofileox1PMe"
+1638836416884	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileox1PMe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63007/devtools/browser/e8c9d2f3-3877-43b7-a220-3c8c66ba4c26
+1638836418909	Marionette	INFO	Listening on port 63013
+1638836419273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638836522215	Marionette	INFO	Stopped listening on port 63013
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ozprofilegaMwg8"
+1638836449779	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofilegaMwg8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63071/devtools/browser/17d15fc4-84f1-4153-a910-adf0f7ac5999
+1638836451890	Marionette	INFO	Listening on port 63076
+1638836452154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638836521408	Marionette	INFO	Stopped listening on port 63076
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ozprofileM1rjFo"
+1638836509774	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileM1rjFo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60005/devtools/browser/ea931c57-53d5-4d0b-9013-6e57c5d809a3
+1638836511965	Marionette	INFO	Listening on port 60010
+1638836512089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638836518953	Marionette	INFO	Stopped listening on port 60010
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638836556920	geckodriver	INFO	Listening on 127.0.0.1:59000
+1638836560009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59001" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofilerJDKaq"
+1638836560328	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofilerJDKaq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59001/devtools/browser/7033d07c-5580-44d6-aca7-c1e38a3e6515
+1638836562381	Marionette	INFO	Listening on port 59006
+1638836562673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638836713258	Marionette	INFO	Stopped listening on port 59006
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59065" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileAQtbhf"
+1638836589957	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileAQtbhf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59065/devtools/browser/a14e25b8-7f8b-49df-b1f4-94858a1d07a4
+1638836591916	Marionette	INFO	Listening on port 59070
+1638836592338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638836597274	Marionette	INFO	Stopped listening on port 59070
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638836673561	geckodriver	INFO	Listening on 127.0.0.1:59157
+1638836676615	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59158" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileyf3Rey"
+1638836676908	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileyf3Rey\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59158/devtools/browser/21455e59-9385-4994-97e3-62ee1529a1ae
+1638836678920	Marionette	INFO	Listening on port 59163
+1638836679301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://e-l.unifi.it/lib/javascript.php/1638759604/lib/requirejs/require.min.js, line 5: Error: No define call for theme_boost/tooltip
+http://requirejs.org/docs/errors.html#nodefine
+1638836685233	Marionette	INFO	Stopped listening on port 59163
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638836851092	geckodriver	INFO	Listening on 127.0.0.1:52222
+1638836854150	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52223" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileBDsE0o"
+1638836854415	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileBDsE0o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52223/devtools/browser/6df45913-1bee-4262-8e61-b504b0710920
+1638836856315	Marionette	INFO	Listening on port 52228
+1638836856826	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638836879382	Marionette	INFO	Stopped listening on port 52228
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638837023862	geckodriver	INFO	Listening on 127.0.0.1:52334
+1638837026940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52335" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileOgk5Z6"
+1638837027244	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileOgk5Z6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52335/devtools/browser/f819736c-a649-4db8-986d-2abcb65df5d1
+1638837029316	Marionette	INFO	Listening on port 52340
+1638837029627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638837182514	Marionette	INFO	Stopped listening on port 52340
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52418" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileQurj2W"
+1638837159598	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileQurj2W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52418/devtools/browser/734ed15c-7143-4924-aace-76c46b2f7940
+1638837161590	Marionette	INFO	Listening on port 52424
+1638837161955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638837181834	Marionette	INFO	Stopped listening on port 52424
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638837254597	geckodriver	INFO	Listening on 127.0.0.1:52490
+1638837257647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52491" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileKvQzqw"
+1638837257945	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileKvQzqw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52491/devtools/browser/0b109111-bfd4-48cd-9ee0-ca45c378da89
+1638837261378	Marionette	INFO	Listening on port 52496
+1638837262001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638837339484	Marionette	INFO	Stopped listening on port 52496
+console.warn: TopSitesFeed: Failed to fetch data from Con1638837340169	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52556" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofile1Qnsi9"
+1638837340586	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofile1Qnsi9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52556/devtools/browser/5d786798-ba24-4689-befd-db499877d7d3
+1638837342930	Marionette	INFO	Listening on port 52562
+1638837343350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638837346137	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638837493293	Marionette	INFO	Stopped listening on port 52562
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52621" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofilegw1hPb"
+1638837396822	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofilegw1hPb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52621/devtools/browser/d6eb629b-7664-4dca-b1a1-cae634c494fa
+1638837398916	Marionette	INFO	Listening on port 52626
+1638837399202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638837401725	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638837495124	Marionette	INFO	Stopped listening on port 52626
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofile386BT7"
+1638837461102	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofile386BT7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62105/devtools/browser/13da4774-46c3-4f57-99f8-641674587ae7
+1638837463306	Marionette	INFO	Listening on port 62112
+1638837463444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638837464337	Marionette	INFO	Stopped listening on port 62112
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638837472820	geckodriver	INFO	Listening on 127.0.0.1:62212
+1638837475877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62213" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileEt82ng"
+1638837476272	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileEt82ng\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62213/devtools/browser/d5376eab-f4ab-4de7-8305-5efbcdbd2bb2
+1638837478659	Marionette	INFO	Listening on port 62218
+1638837479274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638837484790	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638837498152	Marionette	INFO	Stopped listening on port 62218
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638837598184	geckodriver	INFO	Listening on 127.0.0.1:63316
+1638837601237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63317" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileg8RFL3"
+1638837601527	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileg8RFL3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63317/devtools/browser/b40e4003-dabc-4067-ac85-97477566c1a4
+1638837604297	Marionette	INFO	Listening on port 63322
+1638837604627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638837609741	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638837619680	Marionette	INFO	Stopped listening on port 63322
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638837730386	geckodriver	INFO	Listening on 127.0.0.1:63446
+1638837733488	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63447" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofile0E57mP"
+1638837733772	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofile0E57mP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63447/devtools/browser/f4e8016a-283a-4bee-b566-969c0d89cc26
+1638837735801	Marionette	INFO	Listening on port 63452
+1638837736167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638837739071	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638837822843	Marionette	INFO	Stopped listening on port 63452
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ozprofile7ngZPg"
+1638837774385	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofile7ngZPg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63503/devtools/browser/6b2bb0d9-3b9a-4c87-8814-34827d8c78fa
+1638837776428	Marionette	INFO	Listening on port 63508
+1638837776764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638837780563	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638837823748	Marionette	INFO	Stopped listening on port 63508
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638837843736	geckodriver	INFO	Listening on 127.0.0.1:63594
+1638837846820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63595" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileZoV9rG"
+1638837847110	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileZoV9rG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63595/devtools/browser/0ff150ff-d5e3-4675-8e1d-e2e99e03e198
+1638837853292	Marionette	INFO	Listening on port 63600
+1638837853784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638837856125	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638837870952	Marionette	INFO	Stopped listening on port 63600
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638837908886	geckodriver	INFO	Listening on 127.0.0.1:63677
+1638837911967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63678" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileRT6QcW"
+1638837912269	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileRT6QcW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63678/devtools/browser/685e49ae-110f-45bf-854a-94abb6d65d8f
+1638837914100	Marionette	INFO	Listening on port 49675
+1638837914153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638837917638	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638837965311	Marionette	INFO	Stopped listening on port 49675
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638838049965	geckodriver	INFO	Listening on 127.0.0.1:49749
+1638838053025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49750" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofilekLJBSg"
+1638838053319	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofilekLJBSg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49750/devtools/browser/a01470da-36e6-4854-a0dc-e9ef1abe0f6e
+1638838055133	Marionette	INFO	Listening on port 49755
+1638838055186	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838057455	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838083488	Marionette	INFO	Stopped listening on port 49755
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638838125806	geckodriver	INFO	Listening on 127.0.0.1:49817
+1638838128885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49818" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileuNaGMc"
+1638838129168	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileuNaGMc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49818/devtools/browser/ac9f1dba-6baf-4d46-a663-05c5d7711681
+1638838131122	Marionette	INFO	Listening on port 49824
+1638838131572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838133638	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838188104	Marionette	INFO	Stopped listening on port 49824
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ozprofileZE2VAj"
+1638838176173	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileZE2VAj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49882/devtools/browser/09a965f2-fc38-4e4f-943e-b37e664fbcf5
+1638838178327	Marionette	INFO	Listening on port 49887
+1638838178577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838181246	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838188960	Marionette	INFO	Stopped listening on port 49887
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638838300061	geckodriver	INFO	Listening on 127.0.0.1:52127
+1638838303133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52128" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofile4gpgqI"
+1638838303459	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofile4gpgqI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52128/devtools/browser/c77e4774-a1bd-4e01-b157-2ee06667c25a
+1638838305488	Marionette	INFO	Listening on port 52133
+1638838305816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838308693	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838394843	Marionette	INFO	Stopped listening on port 52133
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ozprofileZOrXvB"
+1638838327202	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileZOrXvB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52187/devtools/browser/dff9c023-10fa-4756-b7d7-7ea9eaeb0dd0
+1638838329052	Marionette	INFO	Listening on port 52192
+1638838329116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838331421	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838395564	Marionette	INFO	Stopped listening on port 52192
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51638" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofiledUFEKj"
+1638838366382	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofiledUFEKj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51638/devtools/browser/3ad1b54f-9698-419c-af66-d46bd1e12760
+1638838368241	Marionette	INFO	Listening on port 51645
+1638838368950	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838375042	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838396523	Marionette	INFO	Stopped listening on port 51645
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638838440627	geckodriver	INFO	Listening on 127.0.0.1:49725
+1638838443681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49726" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileB9uVFc"
+1638838443987	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileB9uVFc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49726/devtools/browser/0c90300b-f046-4954-9782-6ba481bb2ca5
+1638838445894	Marionette	INFO	Listening on port 49731
+1638838446357	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838448991	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838450437	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838450642	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1638838475495	Marionette	INFO	Stopped listening on port 49731
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638838477331	geckodriver	INFO	Listening on 127.0.0.1:64832
+1638838480389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64833" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileZHdxut"
+1638838480727	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileZHdxut\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64833/devtools/browser/e904746a-d537-45e6-afbf-5dedaa2eb019
+1638838482717	Marionette	INFO	Listening on port 64839
+1638838483049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838485704	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838487237	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838487411	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1638838642569	Marionette	INFO	Stopped listening on port 64839
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638838645029	geckodriver	INFO	Listening on 127.0.0.1:56790
+1638838648079	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56791" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileBeE7Kx"
+1638838648386	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileBeE7Kx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56791/devtools/browser/6356fd73-3768-4b39-9467-e10df3e5cb89
+1638838650252	Marionette	INFO	Listening on port 56796
+1638838650562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838655555	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838657279	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838657505	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1638838681993	Marionette	INFO	Stopped listening on port 56791638838683163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56849" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofiletmXmIh"
+1638838686311	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofiletmXmIh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56849/devtools/browser/e7bed702-5002-46b6-8c07-b2d85ada289b
+1638838689440	Marionette	INFO	Listening on port 56856
+1638838689532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838691816	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838693406	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838693571	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1638838743943	Marionette	INFO	Stopped listening on port 56851638838745616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56920" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofilecc2mZa"
+1638838745908	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofilecc2mZa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56920/devtools/browser/f2f21152-e93c-4c2f-a3bb-24fb8819ae96
+1638838747750	Marionette	INFO	Listening on port 56926
+1638838747789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838753099	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838755100	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838755375	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1638838778002	Marionette	INFO	Stopped listening on port 56921638838779946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56989" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofile25lmCe"
+1638838780232	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofile25lmCe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56989/devtools/browser/fab6c9a0-4482-4296-9495-faa1dcf0a873
+1638838782035	Marionette	INFO	Listening on port 56995
+1638838782125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838787516	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838789125	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838789342	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1638838805959	Marionette	INFO	Stopped listening on port 56995
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638838814656	geckodriver	INFO	Listening on 127.0.0.1:57078
+1638838817727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57079" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileCuD022"
+1638838818005	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileCuD022\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57079/devtools/browser/29c65775-dac0-46d2-829c-f0799353525a
+1638838819803	Marionette	INFO	Listening on port 57084
+1638838819903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838822935	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838824476	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://kairos.unifi.it/agendaweb/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1638838824756	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1638838954541	Marionette	INFO	Stopped listening on port 57084
+1658089877550	geckodriver	INFO	Listening on 127.0.0.1:64022
+1658089880618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64023" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileJEkahZ"
+1658089881061	Marionette	INFO	Marionette enabled
+1658089881066	Marionette	INFO	Listening on port 64032
+WebDriver BiDi listening on ws://localhost:64023
+Read port: 64032
+1658089881175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileJEkahZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64023/devtools/browser/33306b77-598f-4315-956c-4373b7101530
+1658089887678	Marionette	INFO	Stopped listening on port 64032
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658089970265	geckodriver	INFO	Listening on 127.0.0.1:64191
+1658089973305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64192" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileczrhCa"
+1658089973596	Marionette	INFO	Marionette enabled
+1658089973600	Marionette	INFO	Listening on port 64205
+WebDriver BiDi listening on ws://localhost:64192
+Read port: 64205
+1658089973856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileczrhCa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64192/devtools/browser/4eefaca1-363b-400d-a9dc-ae31e5b739a8
+1658089978891	Marionette	INFO	Stopped listening on port 64205
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658090012980	geckodriver	INFO	Listening on 127.0.0.1:64265
+1658090016005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64266" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileKCdujz"
+1658090016332	Marionette	INFO	Marionette enabled
+1658090016337	Marionette	INFO	Listening on port 64275
+Read port: 64275
+WebDriver BiDi listening on ws://localhost:64266
+1658090016449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileKCdujz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64266/devtools/browser/93237596-a184-4734-a230-a6226fc0af78
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1658090110076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64352" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileqLGZfQ"
+1658090110428	Marionette	INFO	Marionette enabled
+1658090110434	Marionette	INFO	Listening on port 64367
+WebDriver BiDi listening on ws://localhost:64352
+Read port: 64367
+1658090110697	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofileqLGZfQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64352/devtools/browser/73a39ff6-5c64-4119-9689-f1d488d52979
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1658090127756	Marionette	INFO	Stopped listening on port 64367
+1658090142440	geckodriver	INFO	Listening on 127.0.0.1:64457
+1658090145508	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64458" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofile2VpngM"
+1658090145818	Marionette	INFO	Marionette enabled
+1658090145821	Marionette	INFO	Listening on port 64467
+WebDriver BiDi listening on ws://localhost:64458
+Read port: 64467
+1658090145925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofile2VpngM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64458/devtools/browser/c5fd2b8c-8fe8-4eb1-bf97-d989c40bc816
+1658090153505	Marionette	INFO	Stopped listening on port 64467
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1658090383196	geckodriver	INFO	Listening on 127.0.0.1:51789
+1658090386224	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51790" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofile22Tryq"
+1658090386547	Marionette	INFO	Marionette enabled
+1658090386551	Marionette	INFO	Listening on port 51800
+WebDriver BiDi listening on ws://localhost:51790
+Read port: 51800
+1658090386654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofile22Tryq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51790/devtools/browser/9335d8f5-f441-40bb-adbc-8ff014a8d82a
+1658090533202	Marionette	INFO	Stopped listening on port 51800
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51930" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofilefY6RNC"
+1658090522111	Marionette	INFO	Marionette enabled
+1658090522116	Marionette	INFO	Listening on port 51941
+WebDriver BiDi listening on ws://localhost:51930
+Read port: 51941
+1658090522244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aless\\AppData\\Local\\Temp\\rust_mozprofilefY6RNC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51930/devtools/browser/ae542137-0af6-48e6-814e-4940b0dbc423
+1658090529054	Marionette	INFO	Stopped listening on port 51941
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
